@@ -3,13 +3,12 @@
 💭 文字列lineを受け取り、newlistにわけたものを格納する
 
 🏁🍇
-  🍇 s 🔡 ➡️ 🍨🐚🔢🍆
-    🔫 s 🔤 🔤❗️ ➡️ list
-    🆕🍨🐚🔢🍆❗️ ➡️ 🖍️🆕res
-    🔂 x list 🍇
-      🍺🔢 x 10❗️ ➡️ num
-      🐻 res num❗️
-    🍉
-    ↩️ res
-  🍉 ➡️ tolist
+🍇 s 🔡 ➡️ 🍨🐚🔢🍆
+  🔫 s 🔤 🔤❗️ ➡️ list
+  🆕🍨🐚🔢🍆❗️ ➡️ 🖍️🆕 res
+  🔂 x list 🍇
+    🐻 res 🍺🔢 x 10 ❗️❗️
+  🍉
+  ↩️ res
+🍉 ➡️ tolist
 🍉
