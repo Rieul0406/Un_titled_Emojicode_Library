@@ -6,6 +6,12 @@
 
 🥕🐇🥳🙌📚
 
+本ライブラリは Emojicode の競プロにおける実用化向上を目指しています。 🐇🐇🐇
+
+まともなC++ライブラリは [Un_titled_Library](https://github.com/Rieul0406/Un_titled_Library) を参照してください。
+
+Closure は全て main ブロックの中に記述しています。
+
 # 🥕 Issues & Contributions 🐛
 
 Contributions, bug reports, and suggestions are welcome via [GitHub Issues](https://github.com/Rieul0406/Un_titled_emojicode_Library/issues).
