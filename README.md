@@ -15,8 +15,8 @@ Emojicode 1.0 beta 2 の競技プログラミングライブラリです。
 
 Closure は全て main ブロックの中に記述しています。
 
-実装等の詳細は [docs](docs) を参照してください。
-docsの目次は [docs/toc](docs/toc.md) を参照してください。
+実装等の詳細は [docs](docs/toc.md) を参照してください。
+（docs目次に遷移します）
 
 以下はライブラリに直接アクセスできます。
 
