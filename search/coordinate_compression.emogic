@@ -1,0 +1,30 @@
+💭 https://github.com/Rieul0406/Un_titled_Emojicode_Library
+
+📗座標圧縮📗
+🐇🗜️🍇
+  🖍️🆕 list 🍨🐚🔢🍆
+
+  🆕 vec 🍨🐚🔢🍆🍇
+    🍿🍆➡️ 🖍️list
+    vec ➡️🖍️🆕 v
+    0 ➡️🖍️🆕 idx
+    🦁 v 🍇 x 🔢 y 🔢 ➡️ 🔢
+      ↩️ x ➖ y
+    🍉 ❗️
+    🔂 x v 🍇
+      ↪️ idx 🙌 0🍇
+        🐻 list x❗️
+        idx ⬅️➕ 1
+      🍉
+      🙅↪️ 🤜🐽 list 🤜idx ➖ 1🤛❗️ 🙌 x🤛 🙌 👎🍇
+        🐻 list x❗️
+        idx ⬅️➕ 1
+      🍉
+    🍉
+  🍉
+
+  📗引数funcにlower_boundもしくは upper_boundを渡してください📗
+  ❓📍val 🔢 func 🍇🍨🐚🔢🍆 🔢 ➡️ 🔢🍉 ➡️ 🔢🍇
+    ↩️ ⁉️ func list val❗️
+  🍉
+🍉
