@@ -22,7 +22,7 @@ docsの目次は [docs/toc](docs/toc.md) を参照してください。
 
 - [io](io)
     - [tolist](io/tolist.emojic)
--[search](search)
+- [search](search)
     - [lower_bound](search/lower_bound.emojic)
     - [upper_bound](search/upper_bound.emojic)
 - [math](math)
