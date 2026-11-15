@@ -25,6 +25,7 @@ Closure は全て main ブロックの中に記述しています。
 - [search](search)
     - [lower_bound](search/lower_bound.emojic)
     - [upper_bound](search/upper_bound.emojic)
+    - [coordinate_compression](search/coordinate_compression.emogic)
 - [math](math)
     - [max](math/max.emojic)
     - [min](math/min.emojic)
