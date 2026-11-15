@@ -1,0 +1,19 @@
+📗インデックスを返すlower_bound📗
+🏁
+🍇
+  🍇 list 🍨🐚🔢🍆 val 🔢 ➡️ 🔢
+    📏 list ❓➡️ siz
+    🔋1❗️ ➡️🖍️🆕 left
+    siz ➡️🖍️🆕 right
+    🔁 right ➖ left ▶️ 1🍇
+      🤜right ➕ left🤛 ➗ 2 ➡️ mid
+      ↪️ 🐽 list mid❗️ ▶️🙌 val🍇
+        mid ➡️🖍️ right
+      🍉
+      🙅🍇
+        mid ➡️🖍️ left
+      🍉
+    🍉
+    ↩️ right
+  🍉➡️lower_bound
+🍉
