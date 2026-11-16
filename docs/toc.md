@@ -16,5 +16,5 @@
     - [SegmentTree](data-structure/SegmentTree.md)
     - [SegmentTree-monoid](data-structure/SegmentTree-monoid/)
         - [range-sum](data-structure/SegmentTree-monoid/range-sum.md)
-        - [~~range-max~~](data-structure/SegmentTree-monoid/range-max.md)
-        - [~~range-min~~](data-structure/SegmentTree-monoid/range-min.md)
+        - [range-max](data-structure/SegmentTree-monoid/range-max.md)
+        - [range-min](data-structure/SegmentTree-monoid/range-min.md)
