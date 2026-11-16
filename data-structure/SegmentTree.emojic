@@ -1,0 +1,84 @@
+🕊 🍎 🍇
+  🖍️🆕 x 🔢
+
+  🆕 🍼 x 🔢 🍇🍉
+
+  ❓ 🐸 ➡️ 🔢 🍇
+    ↩️ x
+  🍉
+
+  💭 モノイド演算
+  ❓ ☀️ other 🍎 ➡️ 🍎 🍇
+    ↩️ 🆕🍎 x ➕ 🐸 other❓❗️
+  🍉
+🍉
+
+
+🐇 🌲 🍇
+  🖍️🆕 data 🍨🐚🍎🍆 ⬅️ 🆕🍨🐚🍎🍆❗️
+  🖍️🆕 siz 🔢 ⬅️ 1
+
+  💭 単位元
+  🖍️🆕 val 🍎 ⬅️ 🆕🍎 0❗️
+
+  🆕 🍇🍉
+
+
+  📗 初期化 📗
+  ❗️ 🌿 n 🔢 🍇
+    1 ➡️ 🖍️siz
+
+    🔁 n ▶️ siz 🍇
+      siz ⬅️✖️ 2
+    🍉
+
+    🆕🍨🐚🍎🍆❗️ ➡️ 🖍️data
+
+    🔂 i 🆕⏩ 0 siz ✖️ 2❗️ 🍇
+      🐻 data val❗️
+    🍉
+  🍉
+
+
+  📗 一点更新 📗
+  ❗️ 🖊 pos 🔢 value 🍎 🍇
+    pos ➕ siz ➡️ 🖍️🆕 p
+    value ➡️ 🐽data p❗️
+
+    🔁 p ▶️ 1 🍇
+      p ➗ 2 ➡️ 🖍️p
+
+      🐽 data 🤜p ✖️ 2🤛❗️ ➡️ left
+      🐽 data 🤜p ✖️ 2 ➕ 1🤛❗️ ➡️ right
+
+      ☀️ left right❓ ➡️ 🐽data p❗️
+    🍉
+  🍉
+
+
+  📗 区間クエリ [left, right) 📗
+  ❓ 🔎 left 🔢 right 🔢 ➡️ 🍎 🍇
+    left ➕ siz ➡️ 🖍️🆕 l
+    right ➕ siz ➡️ 🖍️🆕 r
+
+    val ➡️ 🖍️🆕 ansl
+    val ➡️ 🖍️🆕 ansr
+
+    🔁 l ◀️ r 🍇
+      ↪️ l 🚮 2 🙌 1 🍇
+        ☀️ ansl 🐽data l❗️❓ ➡️ 🖍️ansl
+        l ⬅️➕ 1
+      🍉
+
+      ↪️ r 🚮 2 🙌 1 🍇
+        r ⬅️➖ 1
+        ☀️ 🐽data r❗️ ansr❓ ➡️ 🖍️ansr
+      🍉
+
+      l ➗ 2 ➡️ 🖍️l
+      r ➗ 2 ➡️ 🖍️r
+    🍉
+
+    ↩️ ☀️ ansl ansr❓
+  🍉
+🍉
