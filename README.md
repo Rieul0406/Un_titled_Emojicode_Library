@@ -33,8 +33,8 @@ Closure は全て main ブロックの中に記述しています。
     - [SegmentTree](data-structure/SegmentTree.emojic)
     - [SegmentTree-monoid](data-structure/SegmentTree-monoid/)
         - [range-sum](data-structure/SegmentTree-monoid/range-sum.emojic)
-        - [~~range-max~~](data-structure/SegmentTree-monoid/range-max.emojic)
-        - [~~range-min~~](data-structure/SegmentTree-monoid/range-min.emojic)
+        - [range-max](data-structure/SegmentTree-monoid/range-max.emojic)
+        - [range-min](data-structure/SegmentTree-monoid/range-min.emojic)
 
 
 # 🥕 Issues & Contributions 🐛
