@@ -18,7 +18,7 @@ Closure は全て main ブロックの中に記述しています。
 実装等の詳細は [docs](docs/toc.md) を参照してください。
 （docs目次に遷移します）
 
-以下はライブラリに直接アクセスできます。
+以下はライブラリに直接アクセスできます。取り消し線の入っているものは未実装です。
 
 - [io](io)
     - [tolist](io/tolist.emojic)
@@ -29,6 +29,13 @@ Closure は全て main ブロックの中に記述しています。
 - [math](math)
     - [max](math/max.emojic)
     - [min](math/min.emojic)
+- [data-structure](data-structure)
+    - [SegmentTree](data-structure/SegmentTree.md)
+    - [SegmentTree-monoid](data-structure/SegmentTree-monoid/)
+        - [range-sum](data-structure/SegmentTree-monoid/range-sum.md)
+        - [~~range-max~~](data-structure/SegmentTree-monoid/range-max.md)
+        - [~~range-min~~](data-structure/SegmentTree-monoid/range-min.md)
+
 
 # 🥕 Issues & Contributions 🐛
 
