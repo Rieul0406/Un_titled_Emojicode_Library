@@ -30,7 +30,7 @@ Closure は全て main ブロックの中に記述しています。
     - [max](math/max.emojic)
     - [min](math/min.emojic)
 - [data-structure](data-structure)
-    - [SegmentTree](data-structure/SegmentTree.emogic)
+    - [SegmentTree](data-structure/SegmentTree.emojic)
     - [SegmentTree-monoid](data-structure/SegmentTree-monoid/)
         - [range-sum](data-structure/SegmentTree-monoid/range-sum.emojic)
         - [~~range-max~~](data-structure/SegmentTree-monoid/range-max.emojic)
