@@ -90,7 +90,7 @@ class SegmentTree:
 ```txt
 🏁 🍇
   💭 宣言
-  🆕🐇❗️ ➡️ seg
+  🆕🌲❗️ ➡️ seg
 
   💭 初期化
   🌿 seg 5❗️
